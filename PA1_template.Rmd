@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Reproducible Assignment1"
 author: "Olubunmi Ajala"
@@ -137,3 +138,25 @@ xyplot(Avg_steps$mean_of_steps ~ Avg_steps$interval | Avg_steps$weekdays,
        layout = c(1, 2), type = "l", 
        xlab = "Interval", ylab = "Number of Steps")
 ```
+=======
+# Reproducible Research: Peer Assessment 1
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> dc20c7c4e92aea6af318a611e2669d5b9c6cbfaf
